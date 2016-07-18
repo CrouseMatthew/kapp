@@ -1,6 +1,6 @@
 package com.tns;
 
-@com.tns.JavaScriptImplementation(javaScriptFile = "./tns_modules/ui/frame/frame.js")
+@com.tns.JavaScriptImplementation(javaScriptFile = "./tns_modules/ui/frame/fragment.js")
 public class FragmentClass extends android.app.Fragment implements com.tns.NativeScriptHashCodeProvider {
 	public FragmentClass(){
 		super();
@@ -49,6 +49,11 @@ public class FragmentClass extends android.app.Fragment implements com.tns.Nativ
 	public void onDestroy()  {
 		java.lang.Object[] args = null;
 		com.tns.Runtime.callJSMethod(this, "onDestroy", void.class, args);
+	}
+
+	public java.lang.String toString()  {
+		java.lang.Object[] args = null;
+		return (java.lang.String)com.tns.Runtime.callJSMethod(this, "toString", java.lang.String.class, args);
 	}
 
 	public boolean equals__super(java.lang.Object other) {

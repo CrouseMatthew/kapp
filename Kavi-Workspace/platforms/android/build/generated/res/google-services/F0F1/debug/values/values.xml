@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">791498093445-7kr48k94pr7pnd7ud92r723m5earuj6g.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://k-mobile-app.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">791498093445</string>
+    <string name="google_api_key" translatable="false">AIzaSyCnqYeoVbLZ_pANK78tked3PoF-LtaZfuk</string>
+    <string name="google_app_id" translatable="false">1:791498093445:android:b17e6b95297f286d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCnqYeoVbLZ_pANK78tked3PoF-LtaZfuk</string>
+    <string name="google_storage_bucket" translatable="false">k-mobile-app.appspot.com</string>
+</resources>

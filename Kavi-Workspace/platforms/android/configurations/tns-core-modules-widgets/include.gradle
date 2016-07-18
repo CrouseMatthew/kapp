@@ -1,6 +1,8 @@
+
 android {
-          productFlavors {
-              "F0" {
-                dimension "tnscoremoduleswidgets"
-              }
-            } }
+    productFlavors {
+        "F0" {
+            dimension "tnscoremoduleswidgets"
+        }
+    }
+}

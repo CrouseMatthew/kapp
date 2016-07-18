@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "791498093445",
+    "firebase_url": "https://k-mobile-app.firebaseio.com",
+    "project_id": "k-mobile-app",
+    "storage_bucket": "k-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791498093445:android:b17e6b95297f286d",
+        "android_client_info": {
+          "package_name": "org.nativescript.KaviWorkspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791498093445-7kr48k94pr7pnd7ud92r723m5earuj6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnqYeoVbLZ_pANK78tked3PoF-LtaZfuk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

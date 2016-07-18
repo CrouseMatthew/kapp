@@ -4,16 +4,163 @@
     <item
         jar="/home/crousem/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
         jumboMode="false"
-        revision="23.0.2"
+        revision="23.0.3"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-23.4.0_858b8dad627f1a732794e1a1a2bc1c39bd40ab3a.jar" />
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-23.4.0_858b8dad627f1a732794e1a1a2bc1c39bd40ab3a.jar" />
     </item>
     <item
-        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/libs/nativescript.jar"
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/KaviWorkspace/binding-generator/unspecified/jars/classes.jar"
         jumboMode="false"
-        revision="23.0.2"
-        sha1="57b3fa4e07f606555cab1d8373106c80acd79f64">
-        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0/debug/nativescript_fea20037071c03b226a9a246f706e51443e6f13c.jar" />
+        revision="23.0.3"
+        sha1="cd7dd3d8b3faa7a457003b040d45b12c7e268dc6">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/KaviWorkspace-binding-generator-unspecified_8aaa20af09a3383b89492e0159b9b4cfbcbefe11.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-common-9.2.0_2eac74007cd351d6f07024dee4c7b4586f781cc7.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-23.4.0_32040747a00ed56f252f5dfb289ff545db8b8275.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-23.4.0_21b314ccb65e6d127a09f99b8652304c7a817464.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-23.4.0_d629519f1729636cffe9f172f795a64651a8c021.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="33203b081101ca6242a4cd746aafe5fc2dd98a34">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-database-connection-9.2.0_f44f0d57736bfc04fe3ffdbd4c7c57960bd60dc2.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0595e77431edaba6793410f9bfa3603c063c58e7">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-crash-9.2.0_c3ec53700b9b0ac57afe9ff573736d2871c4b300.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/internal_impl-23.4.0_c666b70d391f49c660af37a8e8f5b8482bca85bc.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-basement-9.2.0_d065b4e4fbc67fb809eaa3d0518b4a4d08077056.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-analytics-impl-9.2.0_35af285a5b5090c71bfb8760cb7f7ba91123425c.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/KaviWorkspace/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f8c8ebc987f6538a65f5cfd308d5984746999d79">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/KaviWorkspace-runtime-unspecified_b3ece9cff3bf98a53de3133cb805b99b1a77a853.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="20ca7888c59f63d439f218a8810c88039f8bc7db">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-auth-9.2.0_406a72274e3e1e9e8bf437c4308f3ea65e91d1e2.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-tasks-9.2.0_97bf9efecfca4f624a5f4a0bc704a9d918e7583c.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e791f7f2fbf9ca5b3b576916533f844dfb384024">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-auth-module-9.2.0_c97cdd15e22a8a379f61bddab91ebba627ecd323.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/firebase-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ac414a1fd113ad2b4ed7d6e38e698358142895a5">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-firebase-release_01475de0d5c8e94eb1f58436cca54232509612e6.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="44120508d7240c3e34a05957981a5c3c9b9f61aa">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-auth-common-9.2.0_5970d15873356048c5ece85a67b5613357c40fe0.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f2e5203427159d06a7104c1a113eee1c22e0ceb9">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_1f3a2963f8f269d4e69f04685b0c685a3230a0c9.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-analytics-9.2.0_b0a3537a9fb7df080f9ffaf9ffecd0097c3a506f.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-iid-9.2.0_883842f31dd08217bdf9b56e744c5f9d124d91dd.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d7572433ba21aa9e4624c819fa738b2748b82d05">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-database-9.2.0_8dd046787061664c5eeef19cd259bd3fea3dd7f7.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-23.4.0_0debc8bc391a153421296736205611094403a181.jar" />
+    </item>
+    <item
+        jar="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-base-9.2.0_e3eae899a642b4dd9b1c46d4412fc32123fa4792.jar" />
     </item>
 
 </items>
