@@ -1,36 +1,36 @@
+
 import {Component} from "@angular/core";
 import {User} from "./shared/user/user"
+import {UserService} from "./shared/user/user.service";
 
 
 @Component({
   selector: "my-app",
-  template: `
-    <StackLayout>
-    <Image src="~/images/Kavi-Workspace.png"></Image>
-      <TextField
-          hint="Email Address"
-          keyboardType="email"
-          autocorrect="false"
-          [(ngModel)]="email"
-          autocapitalizationType="none">
-      </TextField>
-      <TextField hint="Password" secure="true"></TextField>
-      <Button [text]="is_logging_in ? 'Sign in' : 'Sign up'" class="submit-button" (tap)="submit()"></Button>
-      <Button [text]="is_logging_in ? 'Sign up' : 'Back to login'" (tap)= "toggle_logging_state()"></Button>
-    </StackLayout>
-  `,
+  providers: [UserService],
+  templateUrl: "pages/login/login.html",
   styleUrls: ["pages/login/login-common.css", "pages/login/login.css"]
 })
 export class AppComponent {
   user: User;
 
-  constructor() {
+  constructor(private _userService: UserService) {
     this.user = new User();
   }
 
   is_logging_in = true;
   submit() {
-    alert("You are using: " + this.user.email);
+    if (this.is_logging_in) {
+      this.login();
+    } else {
+      this.signup();
+    }
+  }
+  login () {
+    alert("Logging In");
+  }
+
+  signup() {
+    this._userService.register(this.user)
   }
 
   toggle_logging_state() {

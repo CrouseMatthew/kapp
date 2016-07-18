@@ -3,7 +3,9 @@
 }
 
 button {
-    font-size: 265;
+    font-size: 25;
+    padding-right: 10;
+    padding-left: 10;
 }
 
 .title {

@@ -1,0 +1,13 @@
+    <StackLayout>
+    <Image src="~/images/Kavi-Workspace.png"></Image>
+      <TextField
+          hint="Email Address"
+          keyboardType="email"
+          autocorrect="false"
+          [(ngModel)]="user.email"
+          autocapitalizationType="none">
+      </TextField>
+      <TextField hint="Password" secure="true" [(ngModel)] = "user.password"></TextField>
+      <Button [text]="is_logging_in ? 'Sign in' : 'Sign up'" class="submit-button" (tap)="submit()"></Button>
+      <Button [text]="is_logging_in ? 'Sign up' : 'Back to login'" (tap)= "toggle_logging_state()"></Button>
+    </StackLayout>

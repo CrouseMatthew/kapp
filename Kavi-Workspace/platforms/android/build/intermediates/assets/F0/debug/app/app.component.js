@@ -1,13 +1,26 @@
 "use strict";
 var core_1 = require("@angular/core");
 var user_1 = require("./shared/user/user");
+var user_service_1 = require("./shared/user/user.service");
 var AppComponent = (function () {
-    function AppComponent() {
+    function AppComponent(_userService) {
+        this._userService = _userService;
         this.is_logging_in = true;
         this.user = new user_1.User();
     }
     AppComponent.prototype.submit = function () {
-        alert("You are using: " + this.user.email);
+        if (this.is_logging_in) {
+            this.login();
+        }
+        else {
+            this.signup();
+        }
+    };
+    AppComponent.prototype.login = function () {
+        alert("Logging In");
+    };
+    AppComponent.prototype.signup = function () {
+        this._userService.register(this.user);
     };
     AppComponent.prototype.toggle_logging_state = function () {
         this.is_logging_in = !this.is_logging_in;
@@ -15,10 +28,11 @@ var AppComponent = (function () {
     AppComponent = __decorate([
         core_1.Component({
             selector: "my-app",
-            template: "\n    <StackLayout>\n    <Image src=\"~/images/Kavi-Workspace.png\"></Image>\n      <TextField\n          hint=\"Email Address\"\n          keyboardType=\"email\"\n          autocorrect=\"false\"\n          [(ngModel)]=\"email\"\n          autocapitalizationType=\"none\">\n      </TextField>\n      <TextField hint=\"Password\" secure=\"true\"></TextField>\n      <Button [text]=\"is_logging_in ? 'Sign in' : 'Sign up'\" class=\"submit-button\" (tap)=\"submit()\"></Button>\n      <Button [text]=\"is_logging_in ? 'Sign up' : 'Back to login'\" (tap)= \"toggle_logging_state()\"></Button>\n    </StackLayout>\n  ",
+            providers: [user_service_1.UserService],
+            templateUrl: "pages/login/login.html",
             styleUrls: ["pages/login/login-common.css", "pages/login/login.css"]
         }), 
-        __metadata('design:paramtypes', [])
+        __metadata('design:paramtypes', [user_service_1.UserService])
     ], AppComponent);
     return AppComponent;
 }());
