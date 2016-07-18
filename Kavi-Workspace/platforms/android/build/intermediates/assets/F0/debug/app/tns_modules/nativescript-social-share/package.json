@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      "nativescript-social-share@^1.1.3",
+      "/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/node_modules/@angular/router-deprecated"
+    ]
+  ],
+  "_from": "nativescript-social-share@>=1.1.3 <2.0.0",
+  "_id": "nativescript-social-share@1.2.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/nativescript-social-share",
+  "_nodeVersion": "4.4.4",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/nativescript-social-share-1.2.0.tgz_1466089011293_0.8098608390428126"
+  },
+  "_npmUser": {
+    "email": "tj.vantoll@gmail.com",
+    "name": "tjvantoll"
+  },
+  "_npmVersion": "2.15.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "nativescript-social-share",
+    "raw": "nativescript-social-share@^1.1.3",
+    "rawSpec": "^1.1.3",
+    "scope": null,
+    "spec": ">=1.1.3 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/@angular/router-deprecated"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-social-share/-/nativescript-social-share-1.2.0.tgz",
+  "_shasum": "1c88842daa1854544009b1e10bd95596c79647fc",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-social-share@^1.1.3",
+  "_where": "/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/node_modules/@angular/router-deprecated",
+  "author": {
+    "email": "tj.vantoll@gmail.com",
+    "name": "TJ VanToll",
+    "url": "http://tjvantoll.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/tjvantoll/nativescript-social-share/issues"
+  },
+  "dependencies": {},
+  "description": "A NativeScript module to use the native social sharing widget",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "1c88842daa1854544009b1e10bd95596c79647fc",
+    "tarball": "https://registry.npmjs.org/nativescript-social-share/-/nativescript-social-share-1.2.0.tgz"
+  },
+  "gitHead": "6412d33211f6329862bb5bb074a5e70d55cc4cb8",
+  "homepage": "https://github.com/tjvantoll/nativescript-social-share",
+  "keywords": [
+    "NativeScript"
+  ],
+  "license": "MIT",
+  "main": "social-share.js",
+  "maintainers": [
+    {
+      "name": "tjvantoll",
+      "email": "tj.vantoll@gmail.com"
+    }
+  ],
+  "name": "nativescript-social-share",
+  "nativescript": {
+    "platforms": {
+      "android": "1.4.0",
+      "ios": "1.4.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjvantoll/nativescript-social-share.git"
+  },
+  "scripts": {},
+  "version": "1.2.0"
+}
