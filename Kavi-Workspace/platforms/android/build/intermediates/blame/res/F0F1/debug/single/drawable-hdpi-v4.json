@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi-v4/icon.png",
-        "source": "/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/src/main/res/drawable-hdpi/icon.png"
-    },
-    {
         "merged": "/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
         "source": "/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi-v4/icon.png",
+        "source": "/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/src/main/res/drawable-hdpi/icon.png"
     },
     {
         "merged": "/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
@@ -48,12 +48,12 @@
         "source": "/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
-        "source": "/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
-    },
-    {
         "merged": "/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
         "source": "/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
     },
     {
         "merged": "/home/crousem/Desktop/testApp/kapp/Kavi-Workspace/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",

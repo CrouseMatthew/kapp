@@ -1,5 +1,6 @@
 "use strict";
 var core_1 = require("@angular/core");
+var http_1 = require('@angular/http');
 var user_1 = require("./shared/user/user");
 var user_service_1 = require("./shared/user/user.service");
 var AppComponent = (function () {
@@ -28,7 +29,7 @@ var AppComponent = (function () {
     AppComponent = __decorate([
         core_1.Component({
             selector: "my-app",
-            providers: [user_service_1.UserService],
+            providers: [user_service_1.UserService, http_1.HTTP_PROVIDERS],
             templateUrl: "pages/login/login.html",
             styleUrls: ["pages/login/login-common.css", "pages/login/login.css"]
         }), 
